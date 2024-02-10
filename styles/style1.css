@@ -1,0 +1,27 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.anime {
+    position: relative;
+    left: 441px;
+    top: 86px;
+    display: inline-block;
+}
+
+.Anime {
+    position: relative;
+    left: 65px;
+    top:13px;
+}
+
+.anime a {
+    text-decoration: none;
+}
+
+.gojo{
+    width: 200px !important;
+    
+}

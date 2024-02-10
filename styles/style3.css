@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+img{
+    border-radius: 15px;
+    width: 200px;
+    position: relative;
+    left: 937px;
+    top: 72px;
+}
+
+p{
+    width: 915px;
+    text-align: justify;
+}
+
+.des {
+    position: relative;
+    bottom: 200px;
+}
